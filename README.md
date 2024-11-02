@@ -7,6 +7,6 @@ Siddhartha Lewis-Hayre
 
 [A Heuristic for The Network Design Problem with Steiner Points](https://sidlewishayre.github.io/Steiner_Points_ONDP.pdf)
 
-[Why Stop at Net-Zero? Breaking the Zero-Lower-Bound on Emissions](https://sidlewishayre.github.io/ONDP.pdf)
+[Why Stop at Net-Zero? Breaking the Zero-Lower-Bound on Emissions](https://sidlewishayre.github.io/Breaking_ZLB_Emissions.pdf)
 
 
