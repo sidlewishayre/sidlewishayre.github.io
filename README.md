@@ -7,7 +7,7 @@ Siddhartha Lewis-Hayre
 
 Research:
 
-[Preparing for Shortages through Efficient Use of Scarce Resources](https://sidlewishayre.github.io/Preparing_for_Shortages.pdf)
+[Preparing for Industrial Input Shortages](https://sidlewishayre.github.io/Preparing_for_Shortages.pdf)
 
 [Production Decisions Under Shortages](https://sidlewishayre.github.io/Production_Under_Shortages.pdf)
 
