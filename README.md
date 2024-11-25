@@ -9,7 +9,7 @@ Research:
 
 [Preparing for Industrial Input Shortages](https://sidlewishayre.github.io/Preparing_for_Shortages.pdf)
 
-[Production Decisions Under Shortages](https://sidlewishayre.github.io/Production_Under_Shortages.pdf)
+[Production Decisions During Shortages](https://sidlewishayre.github.io/Production_Under_Shortages.pdf)
 
 [A Heuristic for The Network Design Problem with Steiner Points](https://sidlewishayre.github.io/Steiner_Points_ONDP.pdf)
 
